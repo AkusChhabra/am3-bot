@@ -17,6 +17,9 @@
   },
   "homepage": "https://github.com/Edgelios/am3-bot#readme",
   "dependencies": {
-    "discord.js": "^12.5.1"
+    "discord.js": "^12.5.1",
+    "i": "^0.3.6",
+    "npm": "^7.5.2",
+    "ytdl-core": "^4.4.5"
   }
 }
