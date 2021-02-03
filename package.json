@@ -1,12 +1,22 @@
 {
-  "name": "3am-Bot",
+  "name": "3am",
   "version": "1.0.0",
-  "description": "",
-  "main": "3am.js",
+  "description": "3am Discord Bot",
+  "main": "bot.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Edgelios/am3-bot.git"
+  },
+  "author": "Edge",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Edgelios/am3-bot/issues"
+  },
+  "homepage": "https://github.com/Edgelios/am3-bot#readme",
+  "dependencies": {
+    "discord.js": "^12.5.1"
+  }
 }
