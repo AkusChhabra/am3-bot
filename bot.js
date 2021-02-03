@@ -116,7 +116,7 @@ client.on('guildMemberAdd', member => {
 
 // MUSIC BOT BEGINS
 
-
+/*
 
   client.on('message', async message => {
 
@@ -156,3 +156,4 @@ async function execute(message, serverQueue) {
   const song = {title: songInfo.videoDetails.title, url: songInfo.videoDetails.video_url,};
 
 }
+*/
