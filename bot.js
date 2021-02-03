@@ -136,7 +136,7 @@ client.on('guildMemberAdd', member => {
       return;
     } /*else if (!message.content.startsWith(`${prefix}play || ${prefix}skip || ${prefix}stop`)) {
       message.channel.send('Please enter a valid command.');
-    } 
+    }
 
 })
 
